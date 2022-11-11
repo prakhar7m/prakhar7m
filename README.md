@@ -1,4 +1,11 @@
-### Hi there 👋
+
+
+👋 Hi, I am Prakhar. Username- @prakhar7m.
+🔭 I’m currently working on my Master's in Data Science at Georgetown University.
+👀 I’m interested in converting data into meaningful insights.
+🌱 I’m currently learning applied predictive modeling.
+📫 How to reach me: LinkedIn https://www.linkedin.com/in/prakhar7m/
+
 
 <!--
 **prakhar7m/prakhar7m** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +21,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
