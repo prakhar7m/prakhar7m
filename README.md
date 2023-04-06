@@ -1,4 +1,4 @@
-
+[![prakhar7m Banner](https://github.com/prakhar7m/prakhar7m/blob/main/banner-github.gif)](https://prakharmaheshwari.georgetown.domains/)
 
 👋 Hi, I am Prakhar. Username- @prakhar7m.  
 🔭 I’m currently working on my Master's in Data Science at Georgetown University.  
