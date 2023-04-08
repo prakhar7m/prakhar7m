@@ -7,28 +7,35 @@
   <img src="https://github.com/prakhar7m/prakhar7m/blob/main/banner.png" alt="GU" style="width:100%">
   <figcaption  style="font-size: 12x" align="left">Georgetown University, Fall 2021.</figcaption>
 </figure> <br><br>  
-👋 Hi, I am Prakhar. Username- @prakhar7m.  
 
-🔭 I’m currently working on my Master's in Data Science at Georgetown University.  
+# Introduction
 
-👀 I’m interested in converting data into meaningful insights.  
+Hi, I'm [Your Name], a data science enthusiast with experience in [related field]. I am passionate about leveraging data-driven insights to solve business problems and drive growth. 
 
-📫 How to reach me: LinkedIn https://www.linkedin.com/in/prakhar7m/.  
+This is my GitHub profile where you can find my portfolio of projects and code samples.
 
+## Table of Contents
 
+- [Projects](#projects)
+- [Skills](#skills)
+- [Contact Information](#contact-information)
 
-<!--
-**prakhar7m/prakhar7m** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Projects
 
-Here are some ideas to get you started:
+Here are some of my recent projects:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [Project 1](https://github.com/yourusername/project1): Description of the project
+- [Project 2](https://github.com/yourusername/project2): Description of the project
+- [Project 3](https://github.com/yourusername/project3): Description of the project
+
+## Skills
+
+- Programming languages: Python, R, SQL
+- Data analysis and visualization tools: Pandas, NumPy, Matplotlib, Seaborn, Tableau
+- Machine learning libraries: Scikit-learn, TensorFlow, Keras
+- Other skills: Data cleaning, ETL, statistical analysis, data modeling
+
+## Contact Information
+
+Feel free to reach out to me via email at [your email] or connect with me on [LinkedIn](https://www.linkedin.com/in/yourusername).
 
