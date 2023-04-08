@@ -8,14 +8,7 @@
 <figure>
   <img src="https://github.com/prakhar7m/prakhar7m/blob/main/banner.png" alt="GU" style="width:100%">
   <figcaption align="left">Georgetown University, Fall 2021.</figcaption>
-</figure>  
-
-
- 
-
-
-
-
+</figure> <br><br>  
 👋 Hi, I am Prakhar. Username- @prakhar7m.  
 🔭 I’m currently working on my Master's in Data Science at Georgetown University.  
 👀 I’m interested in converting data into meaningful insights.  
