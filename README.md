@@ -3,7 +3,7 @@
 .h3 {
     color: #ffbf00;
     font-weight:700;
-    font-size: 20px
+    font-size: 20px;
     letter-spacing: 1px;
 }
 </style>
