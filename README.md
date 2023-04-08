@@ -1,6 +1,6 @@
-<!-- markdownlint-disable MD033 MD041 -->
+
 <style>
-.h3 {
+.h3{
     color: #ffbf00;
     font-weight:700;
     font-size: 20px;
@@ -11,7 +11,6 @@
 <div class="green">
     Markdown css styles
 </div>
-
 
 <p align="center">
   <h3 align="center">🎓 M.S. in Data Science & Analytics<br>Georgetown University, Washington D.C.</h3>
