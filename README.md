@@ -1,4 +1,18 @@
 <!-- markdownlint-disable MD033 MD041 -->
+<style>
+.h1 {
+    color: #ffbf00;
+    font-weight:700;
+    font-size: 20px
+    letter-spacing: 1px;
+}
+</style>
+
+<div class="green">
+    Markdown css styles
+</div>
+
+
 <p align="center">
   <h3 align="center">🎓 M.S. in Data Science & Analytics<br>Georgetown University, Washington D.C.</h3>
 </p>
