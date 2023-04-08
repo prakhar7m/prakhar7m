@@ -4,7 +4,7 @@
 
   <img src="https://github.com/prakhar7m/prakhar7m/blob/main/banner.png" alt="GU" style="width:100%"> 
 <p align="left">
-  <img src="https://readme-typing-svg.demolab.com/?lines=G+e+o+r+g+e+t+o+w+n+U+n+i+v+e+r+s+i+t+y; F+a+l+l+,;2+0+2+1+.&font=Fira%20Code&center=true&width=200&height=50&duration=4000&pause=1000" alt="readme intro">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Georgetown+University; F+a+l+l+,;2+0+2+1+.&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=750" alt="readme intro">
 </p>
 
 
