@@ -1,16 +1,17 @@
 > *''You are one thing only. You are a Divine Being. An all-powerful Creator. You are a Deity in jeans and a t-shirt, and within you dwells the infinite wisdom of the ages and the sacred creative force of All that is, will be and ever was.''*  
 ― Anthon St. Maarten, Divine Living: The Essential Guide To Your True Destiny
 
-<figure>
-  <img src="https://github.com/prakhar7m/prakhar7m/blob/main/banner.png" alt="GU" style="width:100%">
-  <figcaption  style="font-size: 12x" align="left">Georgetown University, Fall 2021.</figcaption>
-</figure> <br> 
+
+  <img src="https://github.com/prakhar7m/prakhar7m/blob/main/banner.png" alt="GU" style="width:100%"> 
+<p align="left">
+  <img src="https://readme-typing-svg.demolab.com/?lines=G+e+o+r+g+e+t+o+w+n;U+n+i+v+e+r+s+i+t+y; F+a+l+l+,;2+0+2+1+.&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="readme intro">
+</p>
+
+
 
 # Introduction
 
-<p align="left">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hey,+I+am+Prakhar+Maheshwari!;I+am+a+Data+Scientist.;Welcome+to+my+GitHub!;&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="readme intro">
-</p>
+
 
 Hi, I'm [Your Name], a data science enthusiast with experience in [related field]. I am passionate about leveraging data-driven insights to solve business problems and drive growth. 
 
