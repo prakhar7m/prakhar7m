@@ -1,4 +1,11 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hey,+I+am+Prakhar+Maheshwari;Second+line+of+text)](https://git.io/typing-svg)
+<!-- markdownlint-disable MD033 MD041 -->
+<p align="center">
+  <h3 align="center">⌨️ Readme Typing SVG</h3>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hey,+I+am+Prakhar+Maheshwari!;I+am+a+Data+Scientist!;Welcome+to+my+GitHub;&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
+</p>
 
 👋 Hi, I am Prakhar. Username- @prakhar7m.  
 🔭 I’m currently working on my Master's in Data Science at Georgetown University.  
