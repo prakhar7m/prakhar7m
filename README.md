@@ -8,7 +8,7 @@
 <figure>
   <img src="https://github.com/prakhar7m/prakhar7m/blob/main/banner.png" alt="GU" style="width:100%">
   <figcaption align="left">Georgetown University, Fall 2021.</figcaption>
-</figure>
+</figure><br>
 
 
  
