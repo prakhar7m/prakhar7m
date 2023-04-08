@@ -1,4 +1,4 @@
- ![](https://github.com/prakhar7m/radar.png)
+[![prakhar7m Banner](https://github.com/prakhar7m/prakhar7m/blob/main/radar.png)](https://prakharmaheshwari.georgetown.domains/)
  <link rel="stylesheet" type="text/css" media="all" href="style.css" />
 <p align="center">
   <h3 align="center">🎓 M.S. in Data Science & Analytics<br>Georgetown University, Washington D.C.</h3>
