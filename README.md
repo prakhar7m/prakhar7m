@@ -6,10 +6,11 @@
   <figcaption  style="font-size: 12x" align="left">Georgetown University, Fall 2021.</figcaption>
 </figure> <br><br>  
 
+# Introduction
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Hey,+I+am+Prakhar+Maheshwari!;I+am+a+Data+Scientist.;Welcome+to+my+GitHub!;&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="readme intro">
 </p>
-# Introduction
 
 Hi, I'm [Your Name], a data science enthusiast with experience in [related field]. I am passionate about leveraging data-driven insights to solve business problems and drive growth. 
 
