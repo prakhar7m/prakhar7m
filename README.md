@@ -4,7 +4,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Hey,+I+am+Prakhar+Maheshwari!;I+am+a+Data+Scientist.;Welcome+to+my+GitHub!;&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="readme intro">
 </p>
-[![prakhar7m Banner]](https://github.com/prakhar7m/prakhar7m/blob/main/banner.png)https://prakharmaheshwari.georgetown.domains/
+[![prakhar7m Banner](https://github.com/prakhar7m/prakhar7m/blob/main/banner-github.gif)](https://prakharmaheshwari.georgetown.domains/)
  
 
 
