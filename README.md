@@ -1,6 +1,6 @@
 <!-- markdownlint-disable MD033 MD041 -->
 <p align="center">
-  <h3 align="center" style=font: "Input";>🎓 M.S. in Data Science & Analytics<br>Georgetown University, Washington D.C.</h3>
+  <h3 align="center"  style="font-family:Input;">🎓 M.S. in Data Science & Analytics<br>Georgetown University, Washington D.C.</h3>
 </p>
 
 <p align="center">
