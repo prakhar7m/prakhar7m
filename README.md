@@ -1,4 +1,4 @@
- <link href="./assets/css/style.css" rel="stylesheet"></link> 
+ <link href="style.css" rel="stylesheet"></link> 
 
 <p align="center">
   <h3 align="center">🎓 M.S. in Data Science & Analytics<br>Georgetown University, Washington D.C.</h3>
