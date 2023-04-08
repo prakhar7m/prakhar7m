@@ -1,6 +1,6 @@
 <!-- markdownlint-disable MD033 MD041 -->
 <style>
-.h1 {
+.h3 {
     color: #ffbf00;
     font-weight:700;
     font-size: 20px
