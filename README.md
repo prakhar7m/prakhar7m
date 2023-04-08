@@ -1,6 +1,4 @@
-<p align="center">
-  <h3 align="center"  style="font-size: 15px">🎓 M.S. in Data Science & Analytics<br>Georgetown University, Washington D.C.</h3>
-</p>
+> *''You are one thing only. You are a Divine Being. An all-powerful Creator. You are a Deity in jeans and a t-shirt, and within you dwells the infinite wisdom of the ages and the sacred creative force of All that is, will be and ever was.''* - ― Anthon St. Maarten, Divine Living: The Essential Guide To Your True Destiny
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Hey,+I+am+Prakhar+Maheshwari!;I+am+a+Data+Scientist.;Welcome+to+my+GitHub!;&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="readme intro">
 </p>
