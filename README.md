@@ -1,5 +1,3 @@
-[![prakhar7m Banner](https://github.com/prakhar7m/prakhar7m/blob/main/radar.png)](https://prakharmaheshwari.georgetown.domains/)
- <link rel="stylesheet" type="text/css" media="all" href="style.css" />
 <p align="center">
   <h3 align="center">🎓 M.S. in Data Science & Analytics<br>Georgetown University, Washington D.C.</h3>
 </p>
@@ -7,6 +5,12 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Hey,+I+am+Prakhar+Maheshwari!;I+am+a+Data+Scientist.!;Welcome+to+my+GitHub!;&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="readme intro">
 </p>
+
+[![prakhar7m Banner](https://github.com/prakhar7m/prakhar7m/blob/main/radar.png)](https://prakharmaheshwari.georgetown.domains/)
+ <link rel="stylesheet" type="text/css" media="all" href="style.css" />
+
+
+
 
 👋 Hi, I am Prakhar. Username- @prakhar7m.  
 🔭 I’m currently working on my Master's in Data Science at Georgetown University.  
