@@ -13,7 +13,7 @@
 
 
 
-Hi, I'm [Your Name], a data science enthusiast with experience in [related field]. I am passionate about leveraging data-driven insights to solve business problems and drive growth. 
+Hi, I'm Prakhar Maheshwari. I am a data scientist. I am passionate about leveraging data-driven insights to solve business problems and drive growth. 
 
 This is my GitHub profile where you can find my portfolio of projects and code samples.
 
