@@ -5,7 +5,12 @@
   <img src="https://readme-typing-svg.demolab.com/?lines=Hey,+I+am+Prakhar+Maheshwari!;I+am+a+Data+Scientist.;Welcome+to+my+GitHub!;&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="readme intro">
 </p>
 
-![prakhar7m Banner](https://github.com/prakhar7m/prakhar7m/blob/main/banner.png)
+<figure>
+  <img src="https://github.com/prakhar7m/prakhar7m/blob/main/banner.png" alt="GU" style="width:100%">
+  <figcaption align="left">Georgetown University, Fall 2021.</figcaption>
+</figure>
+
+
  
 
 
