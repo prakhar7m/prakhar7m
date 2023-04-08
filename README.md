@@ -33,10 +33,11 @@ Here are some of my recent projects:
 
 ## Skills
 
+- Code reading, writing reproducible, modular and well-documented code, debugging
+- Web Scraping(Beautiful Soup, Selenium), Gathering data using APIs
 - Programming languages: Python, R, SQL
 - Data analysis and visualization tools: Pandas, NumPy, Matplotlib, Seaborn, Tableau
-- Machine learning libraries: Scikit-learn, TensorFlow, Keras
-- Other skills: Data cleaning, ETL, statistical analysis, data modeling
+- Machine learning libraries: Scikit-learn, Pytorch
 
 ## Contact Information
 
