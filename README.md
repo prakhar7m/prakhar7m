@@ -41,5 +41,4 @@ Here are some of my recent projects:
 
 ## Contact Information
 
-Feel free to reach out to me via email at [your email] or connect with me on [LinkedIn](https://www.linkedin.com/in/yourusername).
-
+Feel free to reach out to me via email at [prakhxr7@gmail.com] or connect with me on [LinkedIn](https://www.linkedin.com/in/prakhar7m/)
