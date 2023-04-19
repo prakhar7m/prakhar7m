@@ -27,10 +27,10 @@ This is my GitHub profile where you can find my portfolio of projects and code s
 
 Here are some of my recent projects:
 
-- [Project 1](https://github.com/yourusername/project1): Description of the project
-- [Project 2](https://github.com/yourusername/project2): Description of the project
-- [Project 3](https://github.com/yourusername/project3): Description of the project
-
+- [Project 1](https://github.com/yourusername/project1): **UEFA Champions League Football(Soccer) Dashboard** - Visualiza
+- [Project 2](https://github.com/yourusername/project2): **Reddit(r/Politics) Sentiment Analytics** - 
+- [Project 3](https://github.com/yourusername/project3): **Spotify Listening Party**  
+- [Other Works](): **YouTube Trend Analytics**, **Hangman Game in Python**, **Word Scrabble in Python**, **Saving's Rate Calculator in Python**, **Visualizing Data using ChatGPT**
 ## Skills
 
 - Code reading, writing reproducible, modular and well-documented code, debugging
