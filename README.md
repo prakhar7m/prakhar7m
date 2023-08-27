@@ -1,15 +1,6 @@
- <img src="https://readme-typing-svg.demolab.com/?lines=Georgetown+University; Fall,+2021.&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=750" alt="readme intro">
-</p>
-
-
-
 # Introduction
 
-
-
 Hi, I'm Prakhar Maheshwari. I am a data scientist. I am passionate about leveraging data-driven insights to solve business problems and drive growth. 
-
-This is my GitHub profile where you can find my portfolio of projects and code samples.
 
 ## Table of Contents
 
